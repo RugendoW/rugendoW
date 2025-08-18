@@ -1,16 +1,15 @@
-## Hi there 👋
+#Hi there 👋
+I'm Rugendo! I'm currently pursuing a course in computer programming and I'm excited to dive deeper into the world of coding.
 
-<!--
-**RugendoW/rugendoW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔗🌱Although I'm still in the learning phase, I'm driven to become a skilled programmer and make a meaningful impaect in the tech industry.
 
-Here are some ideas to get you started:
+🔗 👯 Open to collaborate with anyone on interesting projects 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗⚡Fun fact about myself:
+When am not coding you can find me on the    basketball ball court,where I love playing and staying active. 
+  ✨Always exploring new things and growing my skills to the next level. 
+
+💬 For any questions you can reach out to me and i will be happy to respond to it 😊 
+
+📫Connect with me through: 
+  Email: weddy3386@gmail.com
