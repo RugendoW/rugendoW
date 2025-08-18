@@ -9,7 +9,10 @@ I'm Rugendo! I'm currently pursuing a course in computer programming and I'm exc
 When am not coding you can find me on the    basketball ball court,where I love playing and staying active. 
   ✨Always exploring new things and growing my skills to the next level. 
 
-💬 For any questions you can reach out to me and i will be happy to respond to it 😊 
+🔗💬 For any questions you can reach out to me and i will be happy to respond to it 😊 
 
-📫Connect with me through: 
-  Email: weddy3386@gmail.com
+🔗📫Connect with me through: 
+  📨Email: weddy3386@gmail.com
+
+🔗Fun Quote 
+💡The best code is written with coffee ☕💻
