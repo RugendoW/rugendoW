@@ -13,7 +13,6 @@ When am not coding you can find me on the    basketball ball court,where I love 
 
 🔗📫Connect with me through: 
   📨Email: weddy3386@gmail.com
-  njeruchomba2@gmail.com
 
 🔗Fun Quote 
 💡The best code is written with coffee ☕💻
