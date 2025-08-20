@@ -17,8 +17,10 @@
 
 # 💻 Tech Stack:
 ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-# 📊 GitHub Stats:
-![RugendoW 's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RugendoW &theme=vue-dark&hide_border=false)
+# 📊 GitHub Stats
+![RugendoW's Stats](https://github-readme-stats.vercel.app/api?username=RugendoW&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![RugendoW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RugendoW&theme=vue-dark&hide_border=false)
+![RugendoW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RugendoW&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 ### ✍️ Random Qoute 
 Code is like humour 
