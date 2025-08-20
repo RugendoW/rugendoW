@@ -18,9 +18,9 @@
 # 💻 Tech Stack:
 ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RugendoW &theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RugendoW &theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RugendoW &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+https://github-readme-stats.vercel.app/api?username=RugendoW &theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+https://nirzak-streak-stats.vercel.app/?user=RugendoW &theme=dark&hide_border=false)<br/>
+https://github-readme-stats.vercel.app/api/top-langs/?username=RugendoW &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Qoute 
 Code is like humour 
