@@ -24,6 +24,6 @@
 ![RugendoW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RugendoW&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 ### ✍️ Random Qoute 
-Code is like humour 
+Believe you can and you're halfway there." 
 
 <!-- Proudly created with GPRM/gprm.itsvg.in ) 
